@@ -1,0 +1,6 @@
+{
+  "name": "Media Presentasi Bilangan Berpangkat & Bentuk Akar SMPN 1 Wanaraya",
+  "description": "Media presentasi pembelajaran interaktif Matematika SMP Kelas 8 Fase D materi Bilangan Berpangkat dan Bentuk Akar oleh Suwarto, S.Pd. SMPN 1 Wanaraya 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
